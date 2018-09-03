@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Saregama Basuri Notes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="notes">
+        Scale	Indian	Western\n       C --Sa (S) --	  Do\n  D	--	Re (R) --	  Re\n  E	--	Ga (G) --	  Mi\n  F	--	Ma (M) --	  Fa\n  G	--	Pa (P) --	  So\n  A	--	Dha(D) --  La\n  B	--	Ni (N) --  Ti\nMinor -- \', \nMajor -- \",\#     </string>
+    <string name="noteextra">  Ma (Madhyam) - no holes covered\n
+Ga (Gandhar) - 1st hole covered\n
+Re (rishab) - 2 holes covered\n
+Sa (Shadja) - 3 holes covered\n
+Ni (Nishad) - 4 holes covered\n
+Dha (Dhaivat) - 5 holes covered\n
+Pa (Pancham) - 6 holes covered\n
+        \nThis set of 7 notes can also be referred to in Indian as SAPTAK, which is the equivalent of an OCTAVE.\n
+The bansuri is capable of producing just over 2 and a half octaves\n\n
+     After you learn how to play the notes SA RE GA MA PA DHA NI SA, you can begin to practice playing the Excercise notes. You can go to Ecercise notes from Home page or Navigation Menu. The sequences provided in Excercise Notes are called "Alankaar" or "Palta" in Hindi and mean "Ornamentation" or patterns of notes.
+As a beginner you should learn to play them as slowly as possible because this will train your brain. Try playing at varying speeds once mastered.</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
